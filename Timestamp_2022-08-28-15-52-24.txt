@@ -1,0 +1,18 @@
+elapsed time: 00:04:57    text: Game Start: 00:04:297
+elapsed time: 00:07:18    text: Nice Clip_00:07:438
+elapsed time: 00:15:33    text: Nice Clip_00:15:933
+elapsed time: 00:18:16    text: End Game: 00:18:1096
+elapsed time: 00:22:08    text: Game Start: 00:22:1328
+elapsed time: 00:33:59    text: Nice Clip_00:33:2039
+elapsed time: 00:37:32    text: Nice Clip_00:37:2252
+elapsed time: 00:37:42    text: Nice Clip_00:37:2262
+elapsed time: 00:41:47    text: End Game: 00:41:2507
+elapsed time: 01:01:57    text: Game Start: 01:61:3717
+elapsed time: 01:10:57    text: End Game: 01:70:4257
+elapsed time: 01:12:03    text: Nice Clip_01:72:4323
+elapsed time: 01:15:32    text: Game Start: 01:75:4532
+elapsed time: 01:19:22    text: End Game: 01:79:4762
+elapsed time: 01:27:48    text: Game Start: 01:87:5268
+elapsed time: 01:36:03    text: Nice Clip_01:96:5763
+elapsed time: 01:40:00    text: Nice Clip_01:100:6000
+elapsed time: 01:40:19    text: End Game: 01:100:6019
