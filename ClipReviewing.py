@@ -14,7 +14,7 @@ RealStartSec = MyStartSec - 30
 
 
 # create video capture object
-data = cv2.VideoCapture("2022-08-28-15-52-24.mp4")
+data = cv2.VideoCapture("2022-11-27-18-38-31.mp4")
 # count the number of frames
 frames = data.get(cv2.CAP_PROP_FRAME_COUNT) #total frames
 fps = data.get(cv2.CAP_PROP_FPS) #total frames per second
@@ -29,7 +29,7 @@ totalFrames = seconds * fps
 myStartFrame = RealStartSec * fps
 
 
-cap = cv2.VideoCapture("2022-08-28-15-52-24.mp4") 
+cap = cv2.VideoCapture("2022-11-27-18-38-31.mp4") 
 start_frame_number = myStartFrame
 cap.set(cv2.CAP_PROP_POS_FRAMES, start_frame_number)
 while(cap.isOpened()):
